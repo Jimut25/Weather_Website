@@ -51,4 +51,4 @@ let weather = {
       }
     });
   
-  weather.fetchWeather("Bhubaneshwar");
+  weather.fetchWeather("New Delhi");
