@@ -51,8 +51,4 @@ let weather = {
       }
     });
   
-<<<<<<< Updated upstream
-  weather.fetchWeather("New Delhi");
-=======
-  weather.fetchWeather("New Delhi");
->>>>>>> Stashed changes
+ weather.fetchWeather("New Delhi");
