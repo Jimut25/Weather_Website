@@ -1,18 +1,18 @@
 body 
 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-    font-family: 'Open Sans', sans-serif;
-    
-    background: url('https: //sourc 1px;e.unsplash.com/1600x900/?landscape') no-repeat center center fixed;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;  
-    font-size: 120%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  
+  background: url('https: //sourc 1px;e.unsplash.com/1600x900/?landscape') no-repeat center center fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;  
+  font-size: 120%;
 }
   
 .card 
@@ -110,14 +110,13 @@ h1.temp
 }
 .endor
 {
-    display: block;
-    position: relative;
-    bottom: 0;
-    float: left;
-    color: rgba(255, 255, 255);
-    background: rgb(3, 3, 43, 0.57);
-    border-radius: 25px;
-    min-width: 150px;
+  display: block;
+  position: relative;
+  bottom: 0;
+  float: left;
+  color: rgba(255, 255, 255);
+  background: rgb(3, 3, 43, 0.57);
+  border-radius: 25px;
+  min-width: 150px;
     
 }
-
