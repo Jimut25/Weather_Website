@@ -1,7 +1,9 @@
 body 
 {
-  display: flex;
+  display: grid;
   justify-content: center;
+  justify-items: center;
+  align-content: center;
   align-items: center;
   height: 100vh;
   margin: 0;
@@ -26,7 +28,7 @@ body
   margin-top: 30px;
   display: block;  
   float: left;
-  backdrop-filter: blur(20px);
+  backdrop-filter: blur(10px);
   font-family: cursive;
 }
 
@@ -58,7 +60,7 @@ input.search-bar
   outline: none;
   padding: 0.4em 1em;
   border-radius: 15px;
-  background: #2b5876;
+  background: #044f8d;
   background: -webkit-linear-gradient(45deg,20% #4e4376,50% #2b5876);  
   background: linear-gradient(90deg, 0%#4e4376, 10%#2b5876); 
   color: white;
@@ -118,4 +120,14 @@ h1.temp
   background: rgb(3, 3, 43, 0.57);
   border-radius: 25px;
   min-width: 150px;
+}
+.copy
+{
+  font-size: 20px;
+  font-family: initial;
+  background-color: rgb(104, 104, 99);
+  color: white;
+  margin-top: 10px;
+  padding: 3px 10px;
+  border-radius: 8px;
 }
