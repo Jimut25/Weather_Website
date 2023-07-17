@@ -9,7 +9,7 @@ body
   margin: 0;
   font-family: 'Open Sans', sans-serif;
   
-  background: url('https: //sourc 1px;e.unsplash.com/1600x900/?landscape') no-repeat center center fixed;
+  background: url('https: //sourc 1px;e.unsplash.com/1600x900/?landscape') no-repeat center center;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
